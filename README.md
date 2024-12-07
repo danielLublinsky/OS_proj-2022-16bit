@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="/gifCoverVid.gif" alt="Network Animation" width="600">
+  <br>
+  <i>Visualizing the OS</i>
+</p>
+
+
 # operating system
 build by daniel lublinsky and yehuda buznah
 
